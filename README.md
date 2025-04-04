@@ -1,5 +1,5 @@
 # <B>Hey there💫 ! I'm Harshith Gowda H L</B>
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshithGowdaHL09&color=blue)]
+![Profile Views](https://komarev.com/ghpvc/?username=HarshithGowdaHL09&color=blue)
 
 A passionate college student who loves learning through hands-on experience.<br><br>💡 What I Do:<br>🔹 Web Development – Built a Greengrocer E-Cart project.<br>🔹 Python Enthusiast – Exploring automation and problem-solving.<br>🔹 Cybersecurity & OS – Love understanding how systems work!<br><br>💪 Teamwork & Collaboration:<br>🚀 Team Begins | Working with Suhas, Abhishek, and Jnanesh.<br>📌 Always open to new projects & collaborations!
 
