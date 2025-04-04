@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there😊! I'm Harshith Gowda H L a passionate college student who loves learning through hands-on experience.<br><br>💡 What I Do:<br><br>🔹 Web Development – Built a Greengrocer E-Cart project.<br><br>🔹 Python Enthusiast – Exploring automation and problem-solving.<br><br>🔹 Cybersecurity & OS – Love understanding how systems work!<br><br><br>💪 Teamwork & Collaboration:<br>🚀 Team Begins | Working with Suhas, Abhishek, and Jnanesh.<br>📌 Always open to new projects & collaborations!
+                                                  Hey there👋! I'm Harshith Gowda H L 
+A passionate college student who loves learning through hands-on experience.<br><br>💡 What I Do:<br><br>🔹 Web Development – Built a Greengrocer E-Cart project.<br><br>🔹 Python Enthusiast – Exploring automation and problem-solving.<br><br>🔹 Cybersecurity & OS – Love understanding how systems work!<br><br><br>💪 Teamwork & Collaboration:<br>🚀 Team Begins | Working with Suhas, Abhishek, and Jnanesh.<br>📌 Always open to new projects & collaborations!
 
 
 ## 🌐 Socials:
